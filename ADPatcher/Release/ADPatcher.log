@@ -1,0 +1,10 @@
+﻿  ADPatcher.cpp
+C:\Users\baris\source\repos\ADPatcher\ADPatcher\ADPatcher.cpp(36,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\baris\source\repos\ADPatcher\ADPatcher\ADPatcher.cpp(183,37): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 359 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ADPatcher.vcxproj -> C:\Users\baris\source\repos\ADPatcher\Release\ADPatcher.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
